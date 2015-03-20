@@ -5,8 +5,8 @@
 /* FONT PATH
  * -------------------------- */@font-face {
   font-family: 'FontAwesome';
-  src: url('http://criacao-de-sites-rafael-alfaro.github.io/Fontes/fontawesome-webfont.eot');
-  src: url('http://criacao-de-sites-rafael-alfaro.github.io/Fontes/fontawesome-webfont.eot') format('embedded-opentype'), url('http://criacao-de-sites-rafael-alfaro.github.io/Fontes/fontawesome-webfont.woff') format('woff'), url('http://criacao-de-sites-rafael-alfaro.github.io/Fontes/fontawesome-webfont.ttf') format('truetype'), url('http://criacao-de-sites-rafael-alfaro.github.io/Fontes/fontawesome-webfont.svg') format('svg');
+  src: url('/Fontes/fontawesome-webfont.eot');
+  src: url('/Fontes/fontawesome-webfont.eot') format('embedded-opentype'), url('/Fontes/fontawesome-webfont.woff') format('woff'), url('/Fontes/fontawesome-webfont.ttf') format('truetype'), url('/Fontes/fontawesome-webfont.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
